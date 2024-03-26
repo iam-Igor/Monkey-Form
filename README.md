@@ -1,8 +1,5 @@
-# React + Vite
+# Monkey Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Here is a simple and funny login form fully customizable, it provides built in submit function and a funny monkey animation on show/hide passord checkbox with monkey covering his eyes.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[![Monkey Form](https://res.cloudinary.com/dr4x8lu8f/image/upload/v1711453466/64AE9C02-3E7C-490F-B4C9-9275868C1EDB-removebg-preview_iksian.png)](https://monkey-form-2dmcfglay-iam-igors-projects.vercel.app)
